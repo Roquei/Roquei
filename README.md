@@ -32,16 +32,6 @@ Desenvolvimento de aplicativo nativo utilizando **Swift** integrado a serviços 
 Projeto de engenharia com foco em automação predial e controle de ativos de hardware utilizando microcontroladores **Arduino R4** e tecnologia **RFID**.
 * Integração direta entre leitura física de sensores e sistemas de armazenamento de dados.
 * Validação de hardware através de testes instrumentados e engenharia reversa de processos.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago-roque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-top-langs.vercel.app/api/?username=iago-roque&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 📫 Como me encontrar?

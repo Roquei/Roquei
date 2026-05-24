@@ -8,7 +8,6 @@ Estudante de **Engenharia de Computação na ESEG** e Desenvolvedor de Software 
 
 * **Linguagens de Programação:** Go (Golang), Python, Swift, C/C++ (IoT)
 * **Frameworks & Web:** Flask, REST APIs, Design Patterns
-* **Qualidade & Automação:** Automação de Processos, Quality Assurance (QA), Testes de Integração, Ciclo de Vida de Software (SDLC)
 * **Infraestrutura & DevOps:** Git/GitHub, Linux, Virtualização (Proxmox / Home Server)
 
 ---
